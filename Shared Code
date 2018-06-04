@@ -2,3 +2,10 @@ x=0
 for y in range(0,2):
     x+=1
     print(x)
+
+numero=int(input(" ")
+contador=0
+for s in range(numero):
+    print(s*contador)
+    contador+=1
+    
